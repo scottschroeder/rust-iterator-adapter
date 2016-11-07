@@ -18,3 +18,5 @@ Prints out
 ```
 
 _Note that the `7` did not get paired up and got dropped._
+
+[View Source](src/main.rs)
